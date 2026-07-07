@@ -201,6 +201,3 @@ This project provided practical experience in:
 
 ---
 
-
-
-The project showcases practical skills in **Artificial Intelligence, Data Science, Embedded Systems, and Healthcare IoT**, making it a comprehensive end-to-end machine learning application.
