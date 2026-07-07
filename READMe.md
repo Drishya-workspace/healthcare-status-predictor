@@ -201,20 +201,6 @@ This project provided practical experience in:
 
 ---
 
-## Repository Structure
 
-```text
-health-status-classification/
-
-├── Dataset/
-├── Images/
-├── README.md
-```
-
----
-
-## Final Outcome
-
-This project successfully demonstrates a complete healthcare monitoring pipeline by combining **Machine Learning** and **Embedded Systems**. It evaluates multiple classification algorithms, identifies **Random Forest** as the best-performing model, and integrates live sensor data with Arduino hardware to perform real-time health status prediction.
 
 The project showcases practical skills in **Artificial Intelligence, Data Science, Embedded Systems, and Healthcare IoT**, making it a comprehensive end-to-end machine learning application.
